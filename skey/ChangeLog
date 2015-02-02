@@ -1,0 +1,631 @@
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/AUTHORS,v
+Working file: skey/AUTHORS
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/08 18:59:36;  author: cjmoore;  state: Exp;  lines: +8 -0
+Added flag
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/ChangeLog,v
+Working file: skey/ChangeLog
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/INSTALL,v
+Working file: skey/INSTALL
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/07 21:27:26;  author: cjmoore;  state: Exp;  lines: +361 -13
+Working autotools
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/Makefile.am,v
+Working file: skey/Makefile.am
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/NEWS,v
+Working file: skey/NEWS
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/08 18:59:36;  author: cjmoore;  state: Exp;  lines: +2 -0
+Added flag
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/README,v
+Working file: skey/README
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:50;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/autogen.sh,v
+Working file: skey/autogen.sh
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/07 21:27:27;  author: cjmoore;  state: Exp;  lines: +1 -1
+Working autotools
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/configure.ac,v
+Working file: skey/configure.ac
+head: 1.9
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 9;	selected revisions: 9
+description:
+----------------------------
+revision 1.9
+date: 2013/12/08 18:59:36;  author: cjmoore;  state: Exp;  lines: +1 -5
+Added flag
+----------------------------
+revision 1.8
+date: 2013/12/08 01:48:48;  author: cjmoore;  state: Exp;  lines: +1 -1
+Switched out linker
+----------------------------
+revision 1.7
+date: 2013/12/08 01:26:36;  author: cjmoore;  state: Exp;  lines: +1 -1
+Compile works
+----------------------------
+revision 1.6
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +7 -2
+More fixes
+----------------------------
+revision 1.5
+date: 2013/12/07 21:46:57;  author: cjmoore;  state: Exp;  lines: +2 -4
+Fixed
+----------------------------
+revision 1.4
+date: 2013/12/07 21:30:55;  author: cjmoore;  state: Exp;  lines: +1 -1
+Fixed another version
+----------------------------
+revision 1.3
+date: 2013/12/07 21:27:27;  author: cjmoore;  state: Exp;  lines: +3 -3
+Working autotools
+----------------------------
+revision 1.2
+date: 2013/12/07 21:04:49;  author: cjmoore;  state: Exp;  lines: +1 -1
+Fixed version
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+cvs log: Logging skey/m4
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/m4/.empty,v
+Working file: skey/m4/.empty
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 20:59:29;  author: cjmoore;  state: Exp;
+Added base autotools
+=============================================================================
+cvs log: Logging skey/man
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/man/key.1,v
+Working file: skey/man/key.1
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:50;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/man/keyinit.1,v
+Working file: skey/man/keyinit.1
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:50;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/man/keysh.1,v
+Working file: skey/man/keysh.1
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:50;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/man/skey.1,v
+Working file: skey/man/skey.1
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:50;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+cvs log: Logging skey/src
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/INSTALL,v
+Working file: skey/src/INSTALL
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/Makefile.am,v
+Working file: skey/src/Makefile.am
+head: 1.4
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 4;	selected revisions: 4
+description:
+----------------------------
+revision 1.4
+date: 2013/12/08 01:26:36;  author: cjmoore;  state: Exp;  lines: +1 -1
+Compile works
+----------------------------
+revision 1.3
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +3 -3
+More fixes
+----------------------------
+revision 1.2
+date: 2013/12/07 21:27:27;  author: cjmoore;  state: Exp;  lines: +1 -12
+Working autotools
+----------------------------
+revision 1.1
+date: 2013/12/07 21:01:05;  author: cjmoore;  state: Exp;
+Adding tools
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/Attic/Makefile.tmpl,v
+Working file: skey/src/Makefile.tmpl
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/07 21:56:23;  author: cjmoore;  state: dead;  lines: +0 -0
+Removed stuff
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/Attic/config-skey.sh,v
+Working file: skey/src/config-skey.sh
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/07 21:56:23;  author: cjmoore;  state: dead;  lines: +0 -0
+Removed stuff
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/debug.c,v
+Working file: skey/src/debug.c
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/debug.h,v
+Working file: skey/src/debug.h
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/md4.c,v
+Working file: skey/src/md4.c
+head: 1.3
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 3;	selected revisions: 3
+description:
+----------------------------
+revision 1.3
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +1 -1
+More fixes
+----------------------------
+revision 1.2
+date: 2013/12/07 22:01:40;  author: cjmoore;  state: Exp;  lines: +15 -15
+64 bit fix
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/md4.h,v
+Working file: skey/src/md4.h
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/07 22:01:40;  author: cjmoore;  state: Exp;  lines: +4 -10
+64 bit fix
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/put.c,v
+Working file: skey/src/put.c
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/07 22:01:40;  author: cjmoore;  state: Exp;  lines: +7 -7
+64 bit fix
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/skey.c,v
+Working file: skey/src/skey.c
+head: 1.3
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 3;	selected revisions: 3
+description:
+----------------------------
+revision 1.3
+date: 2013/12/08 18:59:37;  author: cjmoore;  state: Exp;  lines: +2 -2
+Added flag
+----------------------------
+revision 1.2
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +1 -24
+More fixes
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/skey.h,v
+Working file: skey/src/skey.h
+head: 1.3
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 3;	selected revisions: 3
+description:
+----------------------------
+revision 1.3
+date: 2013/12/08 01:33:56;  author: cjmoore;  state: Exp;  lines: +1 -1
+Fixed newlines
+----------------------------
+revision 1.2
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +8 -8
+More fixes
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/skeyinit.c,v
+Working file: skey/src/skeyinit.c
+head: 1.3
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 3;	selected revisions: 3
+description:
+----------------------------
+revision 1.3
+date: 2013/12/08 18:59:37;  author: cjmoore;  state: Exp;  lines: +4 -2
+Added flag
+----------------------------
+revision 1.2
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +17 -22
+More fixes
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/skeylogin.c,v
+Working file: skey/src/skeylogin.c
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +12 -4
+More fixes
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/skeysh.c,v
+Working file: skey/src/skeysh.c
+head: 1.3
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 3;	selected revisions: 3
+description:
+----------------------------
+revision 1.3
+date: 2013/12/08 01:26:36;  author: cjmoore;  state: Exp;  lines: +4 -2
+Compile works
+----------------------------
+revision 1.2
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +4 -4
+More fixes
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/skeysubr.c,v
+Working file: skey/src/skeysubr.c
+head: 1.3
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 3;	selected revisions: 3
+description:
+----------------------------
+revision 1.3
+date: 2013/12/08 01:36:32;  author: cjmoore;  state: Exp;  lines: +1 -1
+Fixed more newlines
+----------------------------
+revision 1.2
+date: 2013/12/08 01:07:08;  author: cjmoore;  state: Exp;  lines: +6 -4
+More fixes
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/src/sysv_shadow.h,v
+Working file: skey/src/sysv_shadow.h
+head: 1.2
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 2;	selected revisions: 2
+description:
+----------------------------
+revision 1.2
+date: 2013/12/08 01:33:56;  author: cjmoore;  state: Exp;  lines: +1 -1
+Fixed newlines
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+cvs log: Logging skey/tools
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/tools/keyaudit,v
+Working file: skey/tools/keyaudit
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
+
+RCS file: /scm/cvsroot/cse376/cjmoore/hw4/skey/tools/keyinfo,v
+Working file: skey/tools/keyinfo
+head: 1.1
+branch:
+locks: strict
+access list:
+symbolic names:
+keyword substitution: kv
+total revisions: 1;	selected revisions: 1
+description:
+----------------------------
+revision 1.1
+date: 2013/12/07 07:26:51;  author: cjmoore;  state: Exp;
+Base commit
+=============================================================================
